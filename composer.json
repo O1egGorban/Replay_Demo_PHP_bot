@@ -1,0 +1,18 @@
+{
+    "name": "oleg/telegram-bot",
+    "description": "Just PHP bot for support team",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Oleg",
+            "email": "gorban103@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bot\\": "src/"
+        }
+    }
+}

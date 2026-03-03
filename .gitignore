@@ -1,0 +1,6 @@
+vendor/
+config.php
+composer.phar
+debug_errors.txt
+debug_input.txt
+src/Telegram/Commands/
